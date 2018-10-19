@@ -1,0 +1,1 @@
+C:\Users\asaldana\Documents\Visual Studio 2015\Tutorials\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
